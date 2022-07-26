@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bec38284.css",
+    "main.js": "./static/js/main.192e9152.js",
+    "static/media/Backgroundnoise.png": "./static/media/Backgroundnoise.a3ced2ac35c342eeb821.png",
+    "static/media/Section6_Mural.png": "./static/media/Section6_Mural.2a3fa09543e30d850634.png",
+    "static/media/Background.png": "./static/media/Background.e6815d6e4afce0ede01c.png",
+    "static/media/Timezoneimage.png": "./static/media/Timezoneimage.59d65e18a5dfc884c613.png",
+    "static/media/Section5_VideoBG.png": "./static/media/Section5_VideoBG.fae0139a4fa766ce2582.png",
+    "static/media/TimezoneImage3.png": "./static/media/TimezoneImage3.a0d2a4b950317b648ee7.png",
+    "static/media/Section3_RightsideImage(1).png": "./static/media/Section3_RightsideImage(1).71e80f276f3297ee66b6.png",
+    "static/media/HeroBanner-Dog.png": "./static/media/HeroBanner-Dog.bf2ab9e514f21487fc6c.png",
+    "static/media/SFPRODISPLAYREGULAR.OTF": "./static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/Header Logo.svg": "./static/media/Header Logo.163ca76af34388dfb591.svg",
+    "static/media/TrailerButton.png": "./static/media/TrailerButton.ce2546e2eac8b1912198.png",
+    "static/media/Background5.png": "./static/media/Background5.3bc2812641bf3a92863b.png",
+    "static/media/Background6.png": "./static/media/Background6.e79527a93cfef800e412.png",
+    "static/media/MovingText.png": "./static/media/MovingText.86fe6626c016d1fbfe7b.png",
+    "static/media/Section5_ICON.svg": "./static/media/Section5_ICON.f2abef88f3d2a170ec8e8865817be03b.svg",
+    "static/media/Background3.png": "./static/media/Background3.61c8e5354b4ca7d1aa8b.png",
+    "static/media/hounds_white.png": "./static/media/hounds_white.668bd20c7f1b64594753.png",
+    "static/media/logo.png": "./static/media/logo.7c36483f4e4be9e0e5e9.png",
+    "static/media/copirate.png": "./static/media/copirate.1f3992a225837e143c0a.png",
+    "static/media/HeaderLogo.png": "./static/media/HeaderLogo.7b8f1dc4176598c3796d.png",
+    "index.html": "./index.html",
+    "main.bec38284.css.map": "./static/css/main.bec38284.css.map",
+    "main.192e9152.js.map": "./static/js/main.192e9152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec38284.css",
+    "static/js/main.192e9152.js"
+  ]
+}
